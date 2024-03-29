@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="" alt="Ametnes" title="Ametnes">
+  <img height="100" src="https://github.com/ametnes/.github/raw/update-emojis/profile/AmetnesLogo3.png" alt="Ametnes" title="Ametnes">
 </p>
 
 <p align="center">

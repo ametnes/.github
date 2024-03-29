@@ -7,12 +7,6 @@
 
  ✅ Generative AI ✅  Business Intelligence ✅  Private LLMs ✅  CRMs ✅  Productivity Management ✅  Enterprise Data Management ✅  ERPs
 <br/>
-Your data must not leave your private network
-<br/>
-On your Laptop | On-Prem | Any Cloud
-</p>
-<p align="center">
-</p>
 
 <p align="center">
 🏡 <a href="https://cloud.ametnes.com">Homepage</a>

@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-🏡 <a href="https://cloud.ametnes.com">Homepage</a>
-👩‍💻 <a href="https://cloud.ametnes.com/docs/">Documentation</a>
+🏡 <a href="https://cloud.ametnes.com">Homepage</a> . 
+👩‍💻 <a href="https://cloud.ametnes.com/docs/">Documentation</a> .
 🍿 <a href="https://cloud.ametnes.com/blog/">Blog</a>
 
 </p>

@@ -6,7 +6,7 @@
    👋 <b>We orchestrate your business applications wherever you host them</b>
    </p>
 <p align="center">
- ✅ Generative AI ✅  Business Intelligence ✅  Private LLMs ✅  CRMs ✅  Productivity Management ✅  Enterprise Data Management <br/> ✅  ERPs
+ ✅ Generative AI ✅  Business Intelligence ✅  Private LLMs ✅  CRMs ✅  Productivity Management <br/> ✅  Enterprise Data Management ✅  ERPs
 </p>
 
 <p align="center">

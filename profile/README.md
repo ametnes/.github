@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-   👋 <b>We orchestrate your business applications wherever you host them</b> <br>
-
+   👋 <b>We orchestrate your business applications wherever you host them</b>
+   </p>
+<p align="center">
  ✅ Generative AI ✅  Business Intelligence ✅  Private LLMs ✅  CRMs ✅  Productivity Management ✅  Enterprise Data Management ✅  ERPs
-<br/>
+</p>
 
 <p align="center">
 🏡 <a href="https://cloud.ametnes.com">Homepage</a>
